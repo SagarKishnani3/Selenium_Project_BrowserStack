@@ -8,7 +8,7 @@ import com.google.cloud.translate.Translation;
 public class Translator {
 
     // API Key for authentication
-    static String apiKey = "AIzaSyCNKTjbvzD7gr4ZMzTXj06li4_1sdNhDQ8";
+    static String apiKey = "API_KEY";
 
     public static String translateTitle(String Title) {
 
