@@ -1,0 +1,30 @@
+{
+  "environments": [
+    {
+      "browser": "Chrome",
+      "browser_version": "latest",
+      "os": "Windows",
+      "os_version": "11"
+    },
+    {
+      "browser": "Firefox",
+      "browser_version": "latest",
+      "os": "Windows",
+      "os_version": "10"
+    },
+    {
+      "browser": "Safari",
+      "browser_version": "latest",
+      "os": "OS X",
+      "os_version": "Ventura"
+    },
+    {
+      "device": "iPhone 14",
+      "os_version": "16"
+    },
+    {
+      "device": "Samsung Galaxy S23",
+      "os_version": "13.0"
+    }
+  ]
+}
